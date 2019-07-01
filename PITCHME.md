@@ -1,52 +1,63 @@
-# Let's Get Started
+# Building a metrics driven organisation with @JezHumble
 
 ---
 
-## Add Some Slide Candy
+## What was it about?
+### Accelerate: The Science of Lean Software and DevOps
+Building transparent, aligned metrics-driven organisation.
 
-![](assets/img/presentation.png)
+---
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+## Key Takeaways
+- Rollout plans. Use MVP model
+- Metrics need to be REALLY specific to offer feedback (scientific)
+- Velocity can only be used for capacity not delivery.
+- Use metrics on what you want to change & how you know you have achieved that.
 
-@snap[west span-50]
-## Customize the Layout
-@snapend
+The MVP model!
 
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
+---
 
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
+## MVP Model
+<em>"MVP is not making shit for lots of people"</em>
+- MVP: Solve Julian's problem. Then expand the market.
 
----?color=linear-gradient(90deg, #E27924 65%, white 35%)
-@title[Add A Little Imagination]
+Rolling out organisational change should be considered in the same vein.
 
-@snap[north-west h4-white]
-#### And start presenting...
-@snapend
+---?image=assets/img/designvsdelivery.png
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
+---
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+## Speed Metrics ('Lets work on Speed for the next 3 months)
+- Lead time for change (checked in git -> prod)
+- Deployment frequency (prod or users)
+- Time to restore service
+- Change failure rate
 
----?image=assets/img/presenter.jpg
+---?image=assets/img/benchmarks.png
 
-@snap[north span-100 h2-white]
-## Now It's Your Turn
-@snapend
+---
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+## Post Mortems
+- Blameless
+- Whats the problem, swarm fixes.
+
+---
+
+## Complex adaptive systems
+- Organisations
+- Software
+	- Process changes are cheaper the software solutions.
+	- Adds further complexity.
+
+"It's not the solution but the ability to change along the way" - Toyota Kata
+
+Its not about "Lets do what they do and expect a result".
+
+---
+
+## Final Thoughts
+- Goal based Metrics 👍
+- If we want to reduce 'meetings' lets measure to see if we are.
+- If we want to improve our uptime stability 'lets measure we are'.
+- [Cool metrics creation tool](https://www.dropbox.com/sh/vm9rcd6tbfypkvb/AACotm7sZGYuX_wJ0ra3I93Xa?dl=0&preview=MetricsFramework.pdf)

@@ -7,3 +7,10 @@ footnote : "Lindsay Jopson - @lindsayjopson"
 published : true
 title : "lindsayjopson presentaitons"
 description : "A bunch of presentations quickly formed by @lindsayjopson"
+
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Source Code Pro", "#000000", "uppercase" ]
+theme-byline     : [ "Raleway", "#666666", "none" ]
+theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro" ]

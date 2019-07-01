@@ -1,14 +1,14 @@
-# Building a metrics driven organisation with @JezHumble
+### Building a metrics driven organisation with @JezHumble
 
 ---
 
-## What was it about?
-### Accelerate: The Science of Lean Software and DevOps
+### What was it about?
+#### Accelerate: The Science of Lean Software and DevOps
 Building transparent, aligned metrics-driven organisation.
 
 ---
 
-## Key Takeaways
+### Key Takeaways
 - Rollout plans. Use MVP model
 - Metrics need to be REALLY specific to offer feedback (scientific)
 - Velocity can only be used for capacity not delivery.
@@ -18,7 +18,7 @@ The MVP model!
 
 ---
 
-## MVP Model
+### MVP Model
 <em>"MVP is not making shit for lots of people"</em>
 - MVP: Solve Julian's problem. Then expand the market.
 
@@ -28,7 +28,7 @@ Rolling out organisational change should be considered in the same vein.
 
 ---
 
-## Speed Metrics ('Lets work on Speed for the next 3 months)
+### Speed Metrics ('Lets work on Speed for the next 3 months)
 - Lead time for change (checked in git -> prod)
 - Deployment frequency (prod or users)
 - Time to restore service
@@ -38,7 +38,7 @@ Rolling out organisational change should be considered in the same vein.
 
 ---
 
-## Post Mortems
+### Post Mortems
 - Blameless
 - Whats the problem, swarm fixes.
 
@@ -56,7 +56,7 @@ Its not about "Lets do what they do and expect a result".
 
 ---
 
-## Final Thoughts
+### Final Thoughts
 - Goal based Metrics 👍
 - If we want to reduce 'meetings' lets measure to see if we are.
 - If we want to improve our uptime stability 'lets measure we are'.

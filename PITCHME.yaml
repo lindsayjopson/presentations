@@ -8,9 +8,9 @@ published : true
 title : "lindsayjopson presentaitons"
 description : "A bunch of presentations quickly formed by @lindsayjopson"
 
-theme-background : [ "#FFF" ]
+theme-background : [ "#f5f6f7" ]
 theme-headline   : [ "Source Code Pro", "#000000", "uppercase" ]
-theme-byline     : [ "Raleway", "#666666", "none" ]
-theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
-theme-links      : [ "#5289F7", "#5254F7" ]
+theme-byline     : [ "Source Code Pro", "#2f3236", "none" ]
+theme-text       : [ "Source Code Pro", "#6d6e70", "none" ]
+theme-links      : [ "#48494A" ]
 theme-code       : [ "Source Code Pro" ]

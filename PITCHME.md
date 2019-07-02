@@ -3,8 +3,11 @@
 ---
 
 ### What was it about?
-#### Accelerate: The Science of Lean Software and DevOps
+@snap[text-left]
+<strong>Accelerate: The Science of Lean Software and DevOps</strong>
+
 Building transparent, aligned metrics-driven organisation.
+@snapend
 
 ---
 

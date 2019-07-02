@@ -27,7 +27,9 @@ The MVP model!
 
 Rolling out organisational change should be considered in the same vein.
 
----?image=assets/img/designvsdelivery.png
+---
+
+![delivery](assets/img/designvsdelivery.png "design delivery")
 
 ---
 

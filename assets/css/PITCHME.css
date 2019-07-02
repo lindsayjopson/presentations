@@ -10,13 +10,3 @@
 #gp-logo img{
   max-width: 150px;
 }
-
-section {
-  background-color: #f5f6f7 !important;
-}
-
-section::after{
-  content: "";
-  width: 100px;
-  background-color: #f5f6f7 !important;
-}

@@ -63,7 +63,8 @@ The MVP model!
 
 ---
 
-### Toyota Kata. Improvement Kata
+### Toyota Kata.
+#### Improvement Kata
 "It's not the solution but the ability to change along the way" - Toyota Kata
 <br><br>
 Its not about "Lets do what they do and expect a result".

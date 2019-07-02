@@ -37,7 +37,9 @@ Rolling out organisational change should be considered in the same vein.
 - Time to restore service
 - Change failure rate
 
----?image=assets/img/benchmarks.png
+---
+### Benchmarks
+![benchmarks](assets/img/benchmarks.png "Benchmark")
 
 ---
 
@@ -52,9 +54,9 @@ Rolling out organisational change should be considered in the same vein.
 - Software
 	- Process changes are cheaper the software solutions.
 	- Adds further complexity.
-
+<br>
 "It's not the solution but the ability to change along the way" - Toyota Kata
-
+<br><br>
 Its not about "Lets do what they do and expect a result".
 
 ---

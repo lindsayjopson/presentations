@@ -25,6 +25,7 @@ The MVP model!
 #### MVP is not making shit for lots of people
 - MVP: Solve Julian's problem. Then expand the market.
 <br />
+<br />
 <em>Rolling out organisational change should be considered in the same vein.</em>
 
 ---

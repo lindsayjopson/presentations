@@ -38,7 +38,7 @@ Rolling out organisational change should be considered in the same vein.
 - Change failure rate
 
 ---
-### Benchmarks
+
 ![benchmarks](assets/img/benchmarks.png "Benchmark")
 
 ---

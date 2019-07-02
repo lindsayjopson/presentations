@@ -35,6 +35,7 @@ Rolling out organisational change should be considered in the same vein.
 
 ### Speed Metrics 
 #### <em>Lets work on Speed for the next 3 months</em>
+<br />
 - Lead time for change (checked in git -> prod)
 - Deployment frequency (prod or users)
 - Time to restore service

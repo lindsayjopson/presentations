@@ -4,8 +4,9 @@
 
 ### What was it about?
 @snap[text-left]
-<strong>Accelerate: The Science of Lean Software and DevOps</strong>
-
+Accelerate: The Science of Lean Software and DevOps
+@snapend
+@snap[text-left]
 Building transparent, aligned metrics-driven organisation.
 @snapend
 

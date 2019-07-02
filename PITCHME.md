@@ -55,11 +55,15 @@ The MVP model!
 ---
 
 ### Complex adaptive systems
+<br />
 - Organisations
 - Software
 	- Process changes are cheaper the software solutions.
 	- Adds further complexity.
-<br>
+
+---
+
+### Toyota Kata. Improvement Kata
 "It's not the solution but the ability to change along the way" - Toyota Kata
 <br><br>
 Its not about "Lets do what they do and expect a result".

@@ -6,6 +6,8 @@
 @snap[text-left]
 Accelerate: The Science of Lean Software and DevOps
 @snapend
+
+
 @snap[text-left]
 Building transparent, aligned metrics-driven organisation.
 @snapend

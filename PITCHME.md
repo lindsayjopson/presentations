@@ -22,10 +22,10 @@ The MVP model!
 ---
 
 ### MVP Model
-<em>"MVP is not making shit for lots of people"</em>
+#### MVP is not making shit for lots of people
 - MVP: Solve Julian's problem. Then expand the market.
-
-Rolling out organisational change should be considered in the same vein.
+<br />
+<em>Rolling out organisational change should be considered in the same vein.</em>
 
 ---
 

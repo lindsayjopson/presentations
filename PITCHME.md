@@ -52,9 +52,3 @@
 ![benchmarks](assets/img/benchmarks.png "Benchmark")
 
 ---
-
-### Final Thoughts
-- Goal based Metrics 👍
-- If we want to reduce 'meetings' lets measure to see if we are.
-- If we want to improve our uptime stability 'lets measure we are'.
-- [Cool metrics creation tool](https://www.dropbox.com/sh/vm9rcd6tbfypkvb/AACotm7sZGYuX_wJ0ra3I93Xa?dl=0&preview=MetricsFramework.pdf)

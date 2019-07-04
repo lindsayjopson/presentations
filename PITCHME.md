@@ -1,73 +1,57 @@
-### Building a metrics driven organisation with @JezHumble
+### Movio Support Guild
 
 ---
 
-### What was it about?
+#### Agenda
 @snap[text-left]
-Accelerate: The Science of Lean Software and DevOps
-<br><br>
-Building transparent, aligned metrics-driven organisation.
+- Homework recap
+- Homework presentation
+- Poke holes...
+- Support metrics.
+- Metric workshop ( if we have time )
 @snapend
 
 ---
 
-### Key Takeaways
-- Rollout plans. Use MVP model
-- Metrics need to be REALLY specific to offer feedback (scientific)
-- Velocity can only be used for capacity not delivery.
-- Use metrics on what you want to change & how you know you have achieved that.
-
-The MVP model!
-
----
-
-### MVP Model
-#### MVP is not making shit for lots of people
-- MVP: Solve Julian's problem. Then expand the market.
-<br />
-<br />
-<em>Rolling out organisational change should be considered in the same vein.</em>
+### Last months Homework?
+@snap[text-left]
+1. Gather your teams ‘Key Components’ and associated repos / technologies from a customer centric perspective.
+2. Give your Key Components a ‘confidence rating’ based on the monitoring, testing, ‘code health’ perspective.
+3. Publish them.
+@snapend
 
 ---
 
-![delivery](assets/img/designvsdelivery.png "design delivery")
+### Homework Presentation
+#### Cinema
+- Yellow [high-risk](https://github.com/movio/yellow/blob/master/doc/high-risk-areas.md), [releasing](https://github.com/movio/yellow/blob/master/doc/releasing-dangerous-features.md)
+- Green [code-health](https://moviohq.atlassian.net/wiki/spaces/GS/pages/433553508/Green+Squad+Code+Health)
+- Red [Features](https://github.com/movio/red/blob/master/FEATURES.md), [Process](https://github.com/movio/red/blob/master/PROCESS.md)
+- Blue 🙃
+##### Media
+- Shark [Developer-sla](https://moviohq.atlassian.net/wiki/spaces/MM/pages/307298422/Shark+Developer+SLA+s)
+- Bear [confidence-homework](https://docs.google.com/spreadsheets/d/127yso8-2srwaR-0Uhs5HeKHgz0IcmaKbyXDmeHPsij4/)
+
+---
+
+### Support metrics
+[support-report](https://docs.google.com/spreadsheets/d/1EMX_5PX7mt7d4haAGPAwMkgdH19oAF_09KnDY_thAtM/edit?ouid=106724872082672275169&usp=sheets_home&ths=true)
+
+---
+
+### Metrics workshop
 
 ---
 
 ### Speed Metrics 
 #### <em>Lets work on Speed for the next 3 months</em>
 <br />
-- Lead time for change (checked in git -> prod)
-- Deployment frequency (prod or users)
 - Time to restore service
 - Change failure rate
 
 ---
 
 ![benchmarks](assets/img/benchmarks.png "Benchmark")
-
----
-
-### Post Mortems
-- Blameless
-- Whats the problem, swarm fixes.
-
----
-
-### Complex adaptive systems
-<br />
-- Organisations
-- Software
-	- Process changes are cheaper the software solutions.
-	- Adds further complexity.
-
----
-
-### Toyota Kata.
-#### Improvement Kata
-"It's not the solution but the ability to change along the way" - Toyota Kata
-<br><br>
-Its not about "Lets do what they do and expect a result".
 
 ---
 

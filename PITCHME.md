@@ -24,7 +24,9 @@
 - Green [code-health](https://moviohq.atlassian.net/wiki/spaces/GS/pages/433553508/Green+Squad+Code+Health)
 - Red [Features](https://github.com/movio/red/blob/master/FEATURES.md), [Process](https://github.com/movio/red/blob/master/PROCESS.md)
 - Blue 🙃
+@snap[text-center]
 ##### Media
+@snapend
 - Shark [Developer-sla](https://moviohq.atlassian.net/wiki/spaces/MM/pages/307298422/Shark+Developer+SLA+s)
 - Bear [confidence-homework](https://docs.google.com/spreadsheets/d/127yso8-2srwaR-0Uhs5HeKHgz0IcmaKbyXDmeHPsij4/)
 

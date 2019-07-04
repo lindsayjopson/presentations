@@ -23,7 +23,7 @@
 - Yellow [high-risk](https://github.com/movio/yellow/blob/master/doc/high-risk-areas.md), [releasing](https://github.com/movio/yellow/blob/master/doc/releasing-dangerous-features.md)
 - Green [code-health](https://moviohq.atlassian.net/wiki/spaces/GS/pages/433553508/Green+Squad+Code+Health)
 - Red [Features](https://github.com/movio/red/blob/master/FEATURES.md), [Process](https://github.com/movio/red/blob/master/PROCESS.md)
-- Blue 🙃
+- Blue [Confidence Matrix](https://github.com/movio/blue/blob/master/BLUE.md)
 @snap[text-center]
 ##### Media
 @snapend

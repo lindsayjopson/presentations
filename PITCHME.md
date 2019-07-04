@@ -2,23 +2,19 @@
 
 ---
 
-#### Agenda
-@snap[text-left]
+### Agenda
 - Homework recap
 - Homework presentation
 - Poke holes...
 - Support metrics.
 - Metric workshop ( if we have time )
-@snapend
 
 ---
 
 ### Last months Homework?
-@snap[text-left]
 1. Gather your teams ‘Key Components’ and associated repos / technologies from a customer centric perspective.
 2. Give your Key Components a ‘confidence rating’ based on the monitoring, testing, ‘code health’ perspective.
 3. Publish them.
-@snapend
 
 ---
 

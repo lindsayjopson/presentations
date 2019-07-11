@@ -1,49 +1,44 @@
-### Movio Support Guild
+### Building a metrics driven organisation with @JezHumble
 
 ---
 
-### Agenda
-- Homework recap
-- Homework presentation
-- Poke holes...
-- Support metrics.
-- Metric workshop ( if we have time )
-
----
-
-### Last months Homework?
-1. Gather your teams ‘Key Components’ and associated repos / technologies from a customer centric perspective.
-2. Give your Key Components a ‘confidence rating’ based on the monitoring, testing, ‘code health’ perspective.
-3. Publish them.
-
----
-
-### Homework Presentation
-#### Cinema
-- Yellow [high-risk](https://github.com/movio/yellow/blob/master/doc/high-risk-areas.md), [releasing](https://github.com/movio/yellow/blob/master/doc/releasing-dangerous-features.md)
-- Green [code-health](https://moviohq.atlassian.net/wiki/spaces/GS/pages/433553508/Green+Squad+Code+Health)
-- Red [Features](https://github.com/movio/red/blob/master/FEATURES.md), [Process](https://github.com/movio/red/blob/master/PROCESS.md)
-- Blue [Confidence Matrix](https://github.com/movio/blue/blob/master/BLUE.md)
-@snap[text-center]
-##### Media
+### What was it about?
+@snap[text-left]
+Accelerate: The Science of Lean Software and DevOps
+<br><br>
+Building transparent, aligned metrics-driven organisation.
 @snapend
-- Shark [Developer-sla](https://moviohq.atlassian.net/wiki/spaces/MM/pages/307298422/Shark+Developer+SLA+s)
-- Bear [confidence-homework](https://docs.google.com/spreadsheets/d/127yso8-2srwaR-0Uhs5HeKHgz0IcmaKbyXDmeHPsij4/)
 
 ---
 
-### Support metrics
-[support-report](https://docs.google.com/spreadsheets/d/1EMX_5PX7mt7d4haAGPAwMkgdH19oAF_09KnDY_thAtM/edit?ouid=106724872082672275169&usp=sheets_home&ths=true)
+### Key Takeaways
+- Rollout plans. Use MVP model
+- Metrics need to be REALLY specific to offer feedback (scientific)
+- Velocity can only be used for capacity not delivery.
+- Use metrics on what you want to change & how you know you have achieved that.
+
+The MVP model!
 
 ---
 
-### Metrics workshop
+### MVP Model
+#### MVP is not making shit for lots of people
+- MVP: Solve Julian's problem. Then expand the market.
+<br />
+<br />
+<em>Rolling out organisational change should be considered in the same vein.</em>
+
+---
+
+![delivery](assets/img/designvsdelivery.png "design delivery")
 
 ---
 
 ### Speed Metrics 
 #### <em>Lets work on Speed for the next 3 months</em>
 <br />
+- Lead time for change (checked in git -> prod)
+- Deployment frequency (prod or users)
 - Time to restore service
 - Change failure rate
 
@@ -52,3 +47,32 @@
 ![benchmarks](assets/img/benchmarks.png "Benchmark")
 
 ---
+
+### Post Mortems
+- Blameless
+- Whats the problem, swarm fixes.
+
+---
+
+### Complex adaptive systems
+<br />
+- Organisations
+- Software
+	- Process changes are cheaper the software solutions.
+	- Adds further complexity.
+
+---
+
+### Toyota Kata.
+#### Improvement Kata
+"It's not the solution but the ability to change along the way" - Toyota Kata
+<br><br>
+Its not about "Lets do what they do and expect a result".
+
+---
+
+### Final Thoughts
+- Goal based Metrics 👍
+- If we want to reduce 'meetings' lets measure to see if we are.
+- If we want to improve our uptime stability 'lets measure we are'.
+- [Cool metrics creation tool](https://www.dropbox.com/sh/vm9rcd6tbfypkvb/AACotm7sZGYuX_wJ0ra3I93Xa?dl=0&preview=MetricsFramework.pdf)

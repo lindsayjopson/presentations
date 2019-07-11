@@ -76,3 +76,8 @@ Its not about "Lets do what they do and expect a result".
 - If we want to reduce 'meetings' lets measure to see if we are.
 - If we want to improve our uptime stability 'lets measure we are'.
 - [Cool metrics creation tool](https://www.dropbox.com/sh/vm9rcd6tbfypkvb/AACotm7sZGYuX_wJ0ra3I93Xa?dl=0&preview=MetricsFramework.pdf)
+
+---
+
+### METRIC WORKSHOP
+- [Lets DO It](https://uc6135dc220038f3a0a320fe20ac.previews.dropboxusercontent.com/p/pdf/AAdeMW_apzbbsPNznj-nKOYFhAaedtGDLOlwR7VnRMwb5xKBLipMrlOD1xvw85NA0u4hKioFIT1M8yXbHWbIwoj4pDn_8hYu_AHbpnilFDrBz5g1GjW9Eb5mehQHaPBRukg48N0ZWaz1LCQhCyiaEZ0W2SATzraOuDrV2BozwdkmvacHzGB4mu_ZD4oWdDlv-vnInNmmkYO2gxppPNbexawSoaA8UWOKu391Sc3e7W9s_JN5MkIaiXo3V3B0JB4T0or4BR4bZ1KTiGfho-KU6IohkzjMROWJQG0qqlIU0OJ3U4rau83reFL-aJc2-WD8Av8z3icjCozXajFVQ1kNCZgv-wwxIz0XCbs8D5_P7_uU-A/p.pdf)

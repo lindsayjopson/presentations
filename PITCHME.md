@@ -3,6 +3,7 @@
 ---
 
 ### What was it about?
+
 @snap[text-left]
 Accelerate: The Science of Lean Software and DevOps
 <br><br>
@@ -12,21 +13,26 @@ Building transparent, aligned metrics-driven organisation.
 ---
 
 ### Key Takeaways
+
 - Rollout plans. Use MVP model
 - Metrics need to be REALLY specific to offer feedback (scientific)
 - Velocity can only be used for capacity not delivery.
 - Use metrics on what you want to change & how you know you have achieved that.
+
+`testing code line`
 
 The MVP model!
 
 ---
 
 ### MVP Model
+
 #### MVP is not making shit for lots of people
+
 - MVP: Solve Julian's problem. Then expand the market.
-<br />
-<br />
-<em>Rolling out organisational change should be considered in the same vein.</em>
+  <br />
+  <br />
+  <em>Rolling out organisational change should be considered in the same vein.</em>
 
 ---
 
@@ -34,8 +40,10 @@ The MVP model!
 
 ---
 
-### Speed Metrics 
+### Speed Metrics
+
 #### <em>Lets work on Speed for the next 3 months</em>
+
 <br />
 - Lead time for change (checked in git -> prod)
 - Deployment frequency (prod or users)
@@ -49,12 +57,14 @@ The MVP model!
 ---
 
 ### Post Mortems
+
 - Blameless
 - Whats the problem, swarm fixes.
 
 ---
 
 ### Complex adaptive systems
+
 <br />
 - Organisations
 - Software
@@ -64,7 +74,9 @@ The MVP model!
 ---
 
 ### Toyota Kata.
+
 #### Improvement Kata
+
 "It's not the solution but the ability to change along the way" - Toyota Kata
 <br><br>
 Its not about "Lets do what they do and expect a result".
@@ -72,6 +84,7 @@ Its not about "Lets do what they do and expect a result".
 ---
 
 ### Final Thoughts
+
 - Goal based Metrics 👍
 - If we want to reduce 'meetings' lets measure to see if we are.
 - If we want to improve our uptime stability 'lets measure we are'.
@@ -80,4 +93,5 @@ Its not about "Lets do what they do and expect a result".
 ---
 
 ### METRIC WORKSHOP
+
 - [Lets DO It](https://uc6135dc220038f3a0a320fe20ac.previews.dropboxusercontent.com/p/pdf/AAdeMW_apzbbsPNznj-nKOYFhAaedtGDLOlwR7VnRMwb5xKBLipMrlOD1xvw85NA0u4hKioFIT1M8yXbHWbIwoj4pDn_8hYu_AHbpnilFDrBz5g1GjW9Eb5mehQHaPBRukg48N0ZWaz1LCQhCyiaEZ0W2SATzraOuDrV2BozwdkmvacHzGB4mu_ZD4oWdDlv-vnInNmmkYO2gxppPNbexawSoaA8UWOKu391Sc3e7W9s_JN5MkIaiXo3V3B0JB4T0or4BR4bZ1KTiGfho-KU6IohkzjMROWJQG0qqlIU0OJ3U4rau83reFL-aJc2-WD8Av8z3icjCozXajFVQ1kNCZgv-wwxIz0XCbs8D5_P7_uU-A/p.pdf)
